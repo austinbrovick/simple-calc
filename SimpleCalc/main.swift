@@ -38,7 +38,6 @@ while (status && i < 3) {
         status = false
     default:
         i = i + 1
-        continue
     }
 }
 if (status) {
